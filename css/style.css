@@ -1,0 +1,52 @@
+body {  
+    font-size: 5px;    
+        background-color: #512027;
+        font-family: 'Impact', Courier, monospace; 
+        color:rgb(255, 255, 255);
+        background-image: url('../image/Phon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top:30px;
+}
+.row {
+}
+
+.col-4 {
+    font-size: 30px;
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    font-family: 'Arial', Courier, monospace; 
+    display: flex;
+    align-items: center;
+    justify-content: right; 
+    margin-right: 20px;
+    font-size: 30px;
+}
+.img_size {
+}
+.title_photo {
+    text-align:center;
+}
+.my_photo{
+    background: url(../image/My_photo.jpg)no-repeat center center;
+    background-size: 100%;
+    width: 500px;
+    height: 500px;
+}
+.nav_logo {
+    background: url(../image/logo.png)no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
